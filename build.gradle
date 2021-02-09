@@ -13,4 +13,4 @@ dependencies {
     implementation("ch.qos.logback:logback-classic:1.2.3")
 }
 
-mainClassName = "demo.albertattard.Mai"
+mainClassName = "demo.albertattard.Main"
